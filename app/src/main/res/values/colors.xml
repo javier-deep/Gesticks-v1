@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_dark">#1B3A5C</color>
+    <color name="accent_yellow">#FFD100</color>
+    <color name="subtitle_teal">#2DC4D4</color>
+    <color name="form_bg">#F0F4F8</color>
+    <color name="text_grey">#7A8B99</color>
+    <color name="input_border">#E0E6ED</color>
+    <color name="logo_bg_alpha">#1AFFD100</color> <!-- 10% opacity of FFD100 -->
+    <color name="status_open">#FF6B6B</color>
+    <color name="status_in_progress">#FFD100</color>
+    <color name="status_closed">#2DC4D4</color>
+    <color name="divider_color">#E0E6ED</color>
+</resources>
