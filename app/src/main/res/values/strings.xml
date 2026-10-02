@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gesticks</string>
+    <string name="app_name">Gestix</string>
     <string name="welcome">Bienvenido</string>
     <string name="login_subtitle">Inicia sesión para continuar</string>
     <string name="email_label">Correo electrónico</string>
